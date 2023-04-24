@@ -27,7 +27,7 @@ public class Main {
 
         System.out.println(p.toString(1));
         System.out.println(p.ocupadocolumna(0));
-
+        System.out.println(p.toString(0));
 
 
     }
