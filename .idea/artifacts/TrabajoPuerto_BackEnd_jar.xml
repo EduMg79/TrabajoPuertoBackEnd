@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TrabajoPuerto BackEnd:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrabajoPuerto_BackEnd_jar</output-path>
+    <root id="archive" name="TrabajoPuerto BackEnd.jar">
+      <element id="module-output" name="TrabajoPuerto BackEnd" />
+    </root>
+  </artifact>
+</component>
